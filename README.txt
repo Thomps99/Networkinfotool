@@ -22,4 +22,4 @@ Version Control:
 - Different versions are managed using branches and merges.
 
 Author:
-[Your Name]
+[OGUNLADE OLAMIDE]
