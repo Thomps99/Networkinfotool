@@ -21,5 +21,5 @@ Version Control:
 - The project is managed using Git for version control.
 - Different versions are managed using branches and merges.
 
-Author:
+Developer:
 [OGUNLADE OLAMIDE]
